@@ -1,0 +1,34 @@
+{
+    "technical_skills": [],
+    "skill_levels": {},
+    "years_of_experience": "Did a web applications using react and mobile application using react expo. python is used for backend.",
+    "education": "I am pursuing Bsc Hons in AI and earned some cousera certificates",
+    "preferred_roles": [
+        "AI ML engineer internship"
+    ],
+    "industry_preference": "I am looking for a learning environment industry",
+    "salary_expectation": null,
+    "conversation": [
+        {
+            "question": "Question: What is your level of proficiency in Python, Java, and React, and how many years of experience do you have working with these technologies?",
+            "answer": "I have intermidiate level and did some projects."
+        },
+        {
+            "question": "Can you please provide more details about your educational background and any relevant qualifications or certifications you hold?",
+            "answer": "I am pursuing Bsc Hons in AI and earned some cousera certificates"
+        },
+        {
+            "question": "Can you please specify your preferred job roles and any specific industries you are interested in working in?",
+            "answer": "AI ML engineer internship"
+        },
+        {
+            "question": "Can you please provide details about any specific technical projects you have worked on in the past that demonstrate your skills in Python, Java, and React, as well as your problem-solving abilities and collaborative work experience?",
+            "answer": "Did a web applications using react and mobile application using react expo. python is used for backend."
+        },
+        {
+            "question": "Based on the profile provided, a key missing piece of information is the candidate's industry preference. Could you please share any specific industries you are interested in working in? This will help in tailoring the job recommendations to align with your career goals and aspirations.",
+            "answer": "I am looking for a learning environment industry"
+        }
+    ],
+    "initial_description": "I'm Mihin passionate about AI and software development. I have experience working with Python, Java, and React to build intelligent systems and mobile applications. I enjoy solving problems, learning new skills, and working in collaborative environments. I'm excited to explore opportunities in AI and tech-related fields."
+}
